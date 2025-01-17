@@ -1,1 +1,1 @@
-![End of the game](EscapeTheRoom/EscapeTheRoom/EscapeTheRoom/images/Escaped.png)
+![End of the game](EscapeTheRoom/images/Escaped.png)
